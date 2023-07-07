@@ -1,5 +1,3 @@
-Certainly! Here's an example of integrating Uloq Auth with Java for OAuth2 and OpenID Connect:
-
 # Uloq Auth Integration Guide for Java
 
 [Uloq Auth](https://auth.uloq.io) is a robust OAuth2 and OpenID Connect service based on IdentityServer4. This guide provides code examples and step-by-step instructions to help you integrate Uloq Auth with your Java application for authentication using OAuth2 and OpenID Connect.
